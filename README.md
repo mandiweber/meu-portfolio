@@ -12,3 +12,6 @@ Você pode visualizar o site aqui: https://meu-portfolio-psi-eight.vercel.app/in
 
 ### 📷 Prévia do projeto  
 ![image](https://github.com/user-attachments/assets/23653865-201d-491c-b719-f8c5ee42a54d)
+
+### 📱 Mobile
+![Portfólio versão mobile](https://github.com/user-attachments/assets/8c8b2858-968f-429e-817c-d0fb2210db25)
